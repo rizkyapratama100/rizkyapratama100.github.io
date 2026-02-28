@@ -1,0 +1,87 @@
+{
+    "socials": [
+        { "name": "> Email", "url": "rizkyapratama100@gmail.com" },
+        { "name": "> GitHub", "url": "https://github.com/rizkyapratama100" },
+        { "name": "> LinkedIn", "url": "https://linkedin.com/in/rapratama1" }
+    ],
+    "activeProjects": [
+        {
+            "title": "Tactile Appendage Kinematic Octopus System (TAKOS)",
+            "date": "Jan 2026 - Present",
+            "images": [
+                "assets/takos_tentacle.jpg"
+            ],
+            "description": "A robot octopus, developing in affiliation with ECLAIR Robotics.",
+            "links": [{ "text": "Notion Documentation", "url": "https://www.notion.so/TAKOS-Tactile-Appendage-Kinematic-Octopus-System-2fcd0549950a81d0b968fcffcdbce40f" }]
+        },
+        {
+            "title": "TUMBLE",
+            "date": "Feb 2026 - Present",
+            "images": [
+                "assets/tumble_cad_1.png"
+            ],
+            "description": "A continuation of TRACE (see past projects), designing, manufacturing, and coding a robot that can navigate a ball through a maze. Essentially, a robot that can play the labyrinth game.",
+            "links": [{ "text": "Inspiration", "url": "https://www.ebay.com/itm/236627532352?chn=ps&_trkparms=ispr%3D1&amdata=enc%3A1PWIDPl5zS_iqme3J41bbXA40&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&mkscid=101&itemid=236627532352&targetid=2321110924701&device=c&mktype=pla&googleloc=9028280&poi=&campaignid=21410649815&mkgroupid=173029508148&rlsatarget=pla-2321110924701&abcId=9450103&merchantid=5054230806&gad_source=1&gad_campaignid=21410649815&gbraid=0AAAAAD_QDh-OWUGo3Q4G8yBBfHvj8R9X1&gclid=CjwKCAiA-__MBhAKEiwASBmsBFLg4RheuOJMGutgcLDneFiakaq01Y9bVKm9oBm3r7JG237H5vomqRoCpPcQAvD_BwE" }]
+        },
+        {
+            "title": "Dice Tower",
+            "date": "Nov 2025 - Present",
+            "images": [
+                "assets/dice_tower.png"
+            ],
+            "description": "Trained a YOLO Model to detect and classify sides of a D6 on a dice tower. Dice tower designed using Fusion360 and fabricated on an XTool P2S laser cutter. ",
+            "links": [{ "text": "Youtube", "url": "https://www.youtube.com/watch?v=iB9HrZrPCrc&feature=youtu.be" }]
+        }
+    ],
+    "pastProjects": [
+        {
+            "title": "TRACE",
+            "date": "Jan 2025 - Dec 2025",
+            "images": [
+                "assets/trace.png"
+            ],
+            "description": "Tech lead for a ball balancing robot designed and coded from scratch. Was responsible for early PID simulation work using Trick and later mechanical design overall using Fusion360. Developed in affiliation with ECLAIR Robotics.",
+            "links": [{ "text": "ECLAIR Website", "url": "https://eclairrobotics.web.app/projects" }]
+        },
+        {
+            "title": "OneOhOne",
+            "date": "Oct 2025",
+            "images": [
+                "assets/OneOhOne.png"
+            ],
+            "description": "Developed a financial literacy app that leveraged banking data from Nessie API and and responses from Gemini API to help high school consumers make informed purchasing and saving decisions.",
+            "links": [{ "text": "Devpost", "url": "https://devpost.com/software/project-vader" }]
+        },
+        {
+            "title": "Wearable Sunlight Tracker - SASE Roots 2024 Third Place",
+            "date": "March 2025",
+            "images": [
+                "assets/sunlight_tracker.png"
+            ],
+            "description": "Fabricated a wearable device using Arduino that tracks duration of time outside to encourage fitness and well being.",
+            "links": []
+        }, 
+        {
+            "title": "Tetrify (Accessible Tetris) - HackTX 2024 Winner!",
+            "date": "Oct 2024",
+            "images": [
+                "assets/ares_tetrify.png"
+            ],
+            "description": "Made in less than 25 hours for HackTX 2024 held at the University of Texas at Austin. Colaborated with three other programmers to improve accessibility in Tetris. Used Python, Mediapipe, and OpenCV to bind large arm motions to player actions to enable those with limited finger dexterity to play Tetris. Intend to extrapolate to other games and potentially everyday use in web browsers. Won Best Novice Hack.",
+            "links": [{ "text": "Devpost", "url": "https://devpost.com/software/ares-accessible-tetris?ref_content=my-projects-tab&ref_feature=my_projects" }]
+        },
+        {
+            "title": "Nest Quest - EGaDS Game Jam 2024 Winner!",
+            "date": "Sep 2024",
+            "images": [
+                "assets/nest_quest.png"
+            ],
+            "description": "Made in less than 50 hours for the 2024 EGaDS Austin Texas Game Jam. Programmed a specialized 2-Dimensional physics engine using Lua and LOVE2D that handled object acceleration and collisions to create a challenging but fair movement system. Designed a progressively challenging level system involving 4 levels to challenge players of all skills levels. Won Runner Up People's Choice Award.",
+            "links": [{ "text": "Itch.io", "url": "https://itch.io/jam/texas-game-jam-2024/rate/3006722" }]
+        }
+    ],
+    "affiliations": [
+        { "name": "ECLAIR Robotics", "logo": "assets/eclair2.png", "url": "https://eclairrobotics.web.app/" },
+        { "name": "Hello Maker Studio", "logo": "assets/hms2.png", "url": "https://exl.cns.utexas.edu/hello-maker-studio" }
+    ]
+}

@@ -1,2 +1,12 @@
 # rizkyapratama100.github.io
-e
+
+TAKOS
+Dice Tower
+TUMBLE
+
+TRACE
+OneOhOne
+Wearable Sunlight Tracker TODO
+Tetrify
+Nest Quest
+TaRDIS Robotics
