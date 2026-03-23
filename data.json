@@ -11,7 +11,7 @@
             "images": [
                 "assets/takos_tentacle.jpg"
             ],
-            "description": "A robot octopus, developing in affiliation with ECLAIR Robotics.",
+            "description": "A robot octopus, developing in affiliation with ECLAIR Robotics as Tech Lead. Responsible for firmware and electronics development of appendage test bed.",
             "links": [{ "text": "Notion Documentation", "url": "https://www.notion.so/TAKOS-Tactile-Appendage-Kinematic-Octopus-System-2fcd0549950a81d0b968fcffcdbce40f" }]
         },
         {
@@ -40,7 +40,7 @@
             "images": [
                 "assets/trace.png"
             ],
-            "description": "Tech lead for a ball balancing robot designed and coded from scratch. Was responsible for early PID simulation work using Trick and later mechanical design overall using Fusion360. Developed in affiliation with ECLAIR Robotics.",
+            "description": "Tech lead for a ball balancing robot designed and coded from scratch. Was responsible for early PID simulation work using Trick and later mechanical design for the motor and overhead camera mounts using Fusion360. Developed in affiliation with ECLAIR Robotics.",
             "links": [{ "text": "ECLAIR Website", "url": "https://eclairrobotics.web.app/projects" }]
         },
         {
@@ -49,7 +49,7 @@
             "images": [
                 "assets/OneOhOne.png"
             ],
-            "description": "Developed a financial literacy app that leveraged banking data from Nessie API and and responses from Gemini API to help high school consumers make informed purchasing and saving decisions.",
+            "description": "Developed a financial literacy app that leveraged banking data from Nessie API and and responses from Gemini API to help high school consumers make informed purchasing and saving decisions. Responsible for testing and verification.",
             "links": [{ "text": "Devpost", "url": "https://devpost.com/software/project-vader" }]
         },
         {
@@ -58,7 +58,7 @@
             "images": [
                 "assets/sunlight_tracker.png"
             ],
-            "description": "Fabricated a wearable device using Arduino that tracks duration of time outside to encourage fitness and well being.",
+            "description": "Fabricated a wearable device using Arduino that tracks duration of time outside to encourage fitness and well being. Responsible for firmware and communications.",
             "links": []
         }, 
         {
