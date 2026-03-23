@@ -20,7 +20,7 @@
             "images": [
                 "assets/tumble_cad_1.png"
             ],
-            "description": "A continuation of TRACE (see past projects), designing, manufacturing, and coding a robot that can navigate a ball through a maze. Essentially, a robot that can play the labyrinth game.",
+            "description": "A continuation of TRACE (see past projects), designing, manufacturing, and coding a robot that can navigate a ball through a maze. Essentially, a robot that can play the labyrinth game. Currently in the mechanical design and fabrication stage of the project.",
             "links": [{ "text": "Inspiration", "url": "https://www.ebay.com/itm/236627532352?chn=ps&_trkparms=ispr%3D1&amdata=enc%3A1PWIDPl5zS_iqme3J41bbXA40&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&mkscid=101&itemid=236627532352&targetid=2321110924701&device=c&mktype=pla&googleloc=9028280&poi=&campaignid=21410649815&mkgroupid=173029508148&rlsatarget=pla-2321110924701&abcId=9450103&merchantid=5054230806&gad_source=1&gad_campaignid=21410649815&gbraid=0AAAAAD_QDh-OWUGo3Q4G8yBBfHvj8R9X1&gclid=CjwKCAiA-__MBhAKEiwASBmsBFLg4RheuOJMGutgcLDneFiakaq01Y9bVKm9oBm3r7JG237H5vomqRoCpPcQAvD_BwE" }]
         },
         {
@@ -29,7 +29,7 @@
             "images": [
                 "assets/dice_tower.png"
             ],
-            "description": "Trained a YOLO Model to detect and classify sides of a D6 on a dice tower. Dice tower designed using Fusion360 and fabricated on an XTool P2S laser cutter. ",
+            "description": "Trained a YOLO Model to detect and classify sides of a D6 on a dice tower. Dice tower designed using Fusion360 and fabricated on an XTool P2S laser cutter.",
             "links": [{ "text": "Youtube", "url": "https://www.youtube.com/watch?v=iB9HrZrPCrc&feature=youtu.be" }]
         }
     ],
@@ -40,7 +40,7 @@
             "images": [
                 "assets/trace.png"
             ],
-            "description": "Tech lead for a ball balancing robot designed and coded from scratch. Was responsible for early PID simulation work using Trick and later mechanical design for the motor and overhead camera mounts using Fusion360. Developed in affiliation with ECLAIR Robotics.",
+            "description": "Ping-pong ball balancing robot designed and coded from scratch. As Tech Lead, was responsible for early PID simulation work using Trick and later mechanical design for the motor and overhead camera mounts using Fusion360. Developed in affiliation with ECLAIR Robotics.",
             "links": [{ "text": "ECLAIR Website", "url": "https://eclairrobotics.web.app/projects" }]
         },
         {
@@ -49,7 +49,7 @@
             "images": [
                 "assets/OneOhOne.png"
             ],
-            "description": "Developed a financial literacy app that leveraged banking data from Nessie API and and responses from Gemini API to help high school consumers make informed purchasing and saving decisions. Responsible for testing and verification.",
+            "description": "Developed a financial literacy app that leveraged banking data from Nessie API and and responses from Gemini API to help high school consumers make informed purchasing and saving decisions. Responsible for testing and verification of purchase history analysis function.",
             "links": [{ "text": "Devpost", "url": "https://devpost.com/software/project-vader" }]
         },
         {
@@ -58,7 +58,7 @@
             "images": [
                 "assets/sunlight_tracker.png"
             ],
-            "description": "Fabricated a wearable device using Arduino that tracks duration of time outside to encourage fitness and well being. Responsible for firmware and communications.",
+            "description": "Fabricated a wearable device using Arduino that tracks duration of time outside to encourage fitness and well being. Responsible for device firmware and Bluetooth Low Energy (BLE) communication between device and phone app.",
             "links": []
         }, 
         {
